@@ -25,11 +25,11 @@ function headerShadow() {
 }
 
 var typingEffect = new Typed(".typedText",{
-    strings : ["Designer","Developer","an Engineer"],
+    strings : ["Developer","Designer","an Engineer"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
-    backDelay : 2000
+    backDelay : 2500
  })
 /* ----- ## -- SCROLL REVEAL ANIMATION -- ## ----- */
  const sr = ScrollReveal({
